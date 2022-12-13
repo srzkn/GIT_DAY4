@@ -11,4 +11,6 @@ public class FRIDAY01 {
 
     //NEDERERE
 
+    //LEARNED
+
 }
